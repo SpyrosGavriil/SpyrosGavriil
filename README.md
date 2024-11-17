@@ -33,9 +33,9 @@ I’m aiming to:
 
 ## 📫 Contact Me
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SpyrosGavriil)  
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/spyros-gavriil-940465339/)  
-[![trophy](https://github-profile-trophy.vercel.app/?
+- **GitHub**: [SpyrosGavriil](https://github.com/SpyrosGavriil)
+- **Email**: [spyrosgavriil01@gmail.com](mailto:spyrosgavriil01@gmail.com)
+- **LinkedIn**: [Spyros Gavriil](https://www.linkedin.com/in/spyros-gavriil)
 
 ---
 
