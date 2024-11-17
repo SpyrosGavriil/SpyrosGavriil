@@ -2,7 +2,7 @@
 
 I'm a **2nd-year Computer Science student** at the **University of Cyprus (UCY)**. Passionate about coding and problem-solving, I enjoy building projects that strengthen my skills and help me explore different areas of computer science.
 
-(https://media.licdn.com/dms/image/v2/D4D16AQG6bLouEStHxQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731832849124?e=1737590400&v=beta&t=Wm1c-v-t0NVyoAVJh1q9OHtsYUlVYgJzG_8mZNRRRek)
+![Undergraduate CS Student At UCY University ](https://media.licdn.com/dms/image/v2/D4D16AQG6bLouEStHxQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1731832849124?e=1737590400&v=beta&t=Wm1c-v-t0NVyoAVJh1q9OHtsYUlVYgJzG_8mZNRRRek)
 
 ---
 
